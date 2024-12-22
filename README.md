@@ -1,3 +1,4 @@
+<img src="news_headline.png">
 <h1>Election Week News & Stock Impact Analysis</h1>
 
 <p>In early November, the world witnessed a pivotal election day on November 5th, followed by a remarkable surge in stock prices on November 6th. This project investigates the dramatic correlation between news clusters and stock market movements, analyzing leading indicators and impact influence between news articles and market behavior.</p>
