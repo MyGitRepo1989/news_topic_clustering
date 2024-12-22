@@ -1,4 +1,4 @@
-# /Users/user/opt/miniconda3/envs/langchain2024/bin/python clustering_news.py
+
 import pandas as pd
 from nltk.tokenize import word_tokenize
 from sentence_transformers import SentenceTransformer
