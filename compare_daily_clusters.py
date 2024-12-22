@@ -15,7 +15,7 @@ import keyBERTinspired_MMR_clusters
 from keyBERTinspired_MMR_clusters import *
 
 import glob
-daily_news_folder = "/Volumes/iMac2024/2024_nmodes/clustering_2024/news_clustering/news_by_date"
+daily_news_folder = "news_clustering/news_by_date"
 
 # Step 4: Use a Better Embedding Model for News
 embedding_model = SentenceTransformer("sentence-transformers/all-mpnet-base-v2")
