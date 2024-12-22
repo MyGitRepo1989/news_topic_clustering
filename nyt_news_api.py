@@ -1,4 +1,4 @@
-#/Users/user/opt/miniconda3/envs/langchain2024/bin/python nyt_news_api.py
+
 import requests
 import json
 import pandas as pd
@@ -41,7 +41,7 @@ def getnews(key,startdate,enddate,country):
     
 
 if __name__ == "__main__":
-    key ='VjBfKZ9yBpLjrNESMlk9GHOoRm8EspOT'
+    key ='Your_Key'
     startdate = "20241101"
     enddate = "20241130"
     country="U.S."
